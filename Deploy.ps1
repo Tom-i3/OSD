@@ -1,1 +1,1 @@
-Start-OSDCloud -OSName 'Windows 11 25H2 x64' -OSLanguage en-gb -OSEdition Pro -OSActivation Retail -ZTI -Restart
+Start-OSDCloud -OSName "Windows 11 25H2 x64" -OSEdition Pro -OSActivation Retail -OSLanguage en-gb -ZTI -Firmware -Restart
